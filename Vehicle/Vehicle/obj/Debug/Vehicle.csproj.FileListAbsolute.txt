@@ -1,0 +1,7 @@
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson3_Inheritance\CSharp_Essential_Lesson3_Inheritance_Task3-\Vehicle\Vehicle\bin\Debug\Vehicle.exe.config
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson3_Inheritance\CSharp_Essential_Lesson3_Inheritance_Task3-\Vehicle\Vehicle\bin\Debug\Vehicle.exe
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson3_Inheritance\CSharp_Essential_Lesson3_Inheritance_Task3-\Vehicle\Vehicle\bin\Debug\Vehicle.pdb
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson3_Inheritance\CSharp_Essential_Lesson3_Inheritance_Task3-\Vehicle\Vehicle\obj\Debug\Vehicle.csprojResolveAssemblyReference.cache
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson3_Inheritance\CSharp_Essential_Lesson3_Inheritance_Task3-\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.CoreCompileInputs.cache
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson3_Inheritance\CSharp_Essential_Lesson3_Inheritance_Task3-\Vehicle\Vehicle\obj\Debug\Vehicle.exe
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson3_Inheritance\CSharp_Essential_Lesson3_Inheritance_Task3-\Vehicle\Vehicle\obj\Debug\Vehicle.pdb
